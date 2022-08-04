@@ -5,6 +5,10 @@ ASSIGNMENT CODE
 * [Array Implementation of Stack](/stack_.c)
 * [Array Implementation of 2-in-1 Stack](/stack_2_in_1.c)
 
+### Linked list
+
+* [Linkedlist in c](/single_linked_list.c)
+
 ### Queue
 
 * [Array Implementation of Queue](/queu.c)
