@@ -8,6 +8,7 @@ ASSIGNMENT CODE
 ### Linked list
 
 * [ Single Linkedlist in c](/single_linked_list.c)
+* [double linked list in c](/double_linked_list.c)
 
 ### Queue
 
