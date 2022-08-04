@@ -7,7 +7,7 @@ ASSIGNMENT CODE
 
 ### Linked list
 
-* [Linkedlist in c](/single_linked_list.c)
+* [ Single Linkedlist in c](/single_linked_list.c)
 
 ### Queue
 
